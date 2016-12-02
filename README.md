@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-  <td><img src="static/elm-calendar-new.png" width="600"></td>
-  <td><img src="static/storybook.gif" width="600"></td>
+  <td><img src="static/elm-calendar-new.png"></td>
+  <td><img src="static/storybook.gif"></td>
 </tr>
 </table>
 
